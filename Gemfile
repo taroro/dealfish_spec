@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'capybara-webkit'
 gem 'rspec'
 gem 'selenium-webdriver'
 gem 'capybara'
